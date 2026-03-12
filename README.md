@@ -1,12 +1,18 @@
 ## About Me
 
 Welcome to my github profile.  My name is Cedric Santos.
-
 I am currently student studying Computer Science at the University of Texas Rio Grande Valley. 
 
-#Contact#
+## Contact ##
 
 Email: cedric.galorportsantos01@utrgv.edu
+
+## Programming Languages ##
+Java
+
+Javascript
+
+Python
 
 
 <!--
