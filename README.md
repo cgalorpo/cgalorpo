@@ -2,7 +2,7 @@
 
 Welcome to my github profile.  My name is Cedric Santos.
 
-I am a student at the University of Texas Rio Grande Valley. 
+I am currently student studying Computer Science at the University of Texas Rio Grande Valley. 
 <!--
 **cgalorpo/cgalorpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
